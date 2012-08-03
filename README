@@ -1,0 +1,8 @@
+== Motors Project
+Django is a high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+
+== Getting Started
+1. Run python manage.py syncdb to enable de database.
+2. Run the command python manage.py runserver to deploy the webapp, by default it's listen on 8000 port.
+3. Go to http://localhost:8000/admin to enter on the admin site, with user and pass root
+
