@@ -1,0 +1,4 @@
+# Ignoring files
+*.log
+*.pot
+*.pyc
